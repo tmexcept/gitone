@@ -1,0 +1,2 @@
+﻿修改自网络上的一个demo
+用于适配listview中含有不同的itemview的一个demo
