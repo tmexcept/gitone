@@ -9,6 +9,8 @@ public class FlightOrder implements IItemBean {
 	public String airline;
 	public String from;
 	public String to ;
+	
+	
 	public String getAirline() {
 		return airline;
 	}
